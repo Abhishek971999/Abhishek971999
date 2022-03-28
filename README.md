@@ -3,7 +3,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-mogaveera/)](https://www.linkedin.com/in/abhishek-mogaveera/)
-[![Website Badge](https://img.shields.io/badge/-abhishekm-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://abhishekm.netlify.app/)](https://abhishekm.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/-abhishekm-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://abhiisshakee.netlify.app/)](https://abhiisshakee.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-abmogaveer971999-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:abmogaveer971999@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@abhiisshakee-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abhiisshakee)](https://twitter.com/abhiisshakee)
 [![Instagram Badge](https://img.shields.io/badge/-@abhiisshakee-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/abhiisshakee/)](https://www.instagram.com/abhiisshakee/)
